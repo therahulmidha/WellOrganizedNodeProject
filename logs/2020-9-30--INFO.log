@@ -1,0 +1,41 @@
+{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\socketComm.js","C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js"],"level":"error","message":"Cannot find module '../service/userSocketService'\nRequire stack:\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\socketComm.js\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js Cannot find module '../service/userSocketService'\nRequire stack:\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\socketComm.js\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js","stack":"Error: Cannot find module '../service/userSocketService'\nRequire stack:\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\socketComm.js\n- C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:841:27)\n    at Module.require (internal/modules/cjs/loader.js:1025:19)\n    at require (internal/modules/cjs/helpers.js:72:18)\n    at Object.<anonymous> (C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\socketComm.js:3:58)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Module.require (internal/modules/cjs/loader.js:1025:19)\n    at require (internal/modules/cjs/helpers.js:72:18)\n    at C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js:7:11\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2020-10-30T05:15:50.379Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T05:16:16.033Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T05:16:20.305Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:19:52.233Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:19:54.991Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:20:32.481Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:20:35.118Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:21:04.261Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:21:06.906Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:21:21.101Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:21:23.768Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:21:38.703Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:21:41.404Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:22:23.422Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:22:26.142Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:22:36.637Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:22:39.244Z"}
+{"level":"error","message":"missing ) after argument list missing ) after argument list","stack":"C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\startup\\routeHandling.js:9\n    console.log('..\\'+ __dirname + '/public')\n                                     ^^^^^^\n\nSyntaxError: missing ) after argument list\n    at wrapSafe (internal/modules/cjs/loader.js:1053:16)\n    at Module._compile (internal/modules/cjs/loader.js:1101:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Module.require (internal/modules/cjs/loader.js:1025:19)\n    at require (internal/modules/cjs/helpers.js:72:18)\n    at C:\\Rahul\\FullStackExp\\WellOrganizedNodeProject\\index.js:6:11\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2020-10-30T12:22:49.023Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:22:56.005Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:23:03.647Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:23:07.703Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:23:10.440Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:23:17.863Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:23:20.471Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:25:03.552Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:25:06.313Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:25:25.244Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:25:30.269Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:25:56.398Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:25:59.065Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:26:04.263Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:26:06.891Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:26:14.961Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:26:17.669Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:26:43.990Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:26:46.624Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:26:50.137Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:26:51.740Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:26:54.375Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-30T12:27:00.284Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-30T12:27:02.993Z"}

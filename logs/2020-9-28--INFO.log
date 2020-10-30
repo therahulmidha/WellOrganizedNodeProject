@@ -1,0 +1,8 @@
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-28T07:51:00.618Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-28T07:51:05.114Z"}
+{"message":"Illegal arguments: string, undefined","level":"error","timestamp":"2020-10-28T07:51:11.468Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-28T07:51:46.206Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-28T07:51:50.645Z"}
+{"message":"Illegal arguments: string, undefined","level":"error","timestamp":"2020-10-28T07:52:31.485Z"}
+{"message":"Server started on http://127.0.0.1:3000","level":"info","timestamp":"2020-10-28T07:53:13.232Z"}
+{"message":"MongoDB database connection established successfully","level":"info","timestamp":"2020-10-28T07:53:16.289Z"}
